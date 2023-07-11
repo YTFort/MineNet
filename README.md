@@ -2,7 +2,7 @@
 <a href="https://github.com/YTFort/MineNet/stargazers"><img src="https://badgen.net/github/stars/YTFort/MineNet" alt="GitHub stars"/></a>
 <a href="https://github.com/YTFort/MineNet"><img src="https://badgen.net/github/watchers/YTFort/MineNet" alt="GitHub watchers"/></a>
 <a href="https://github.com/YTFort/MineNet"><img src="https://badgen.net/github/forks/YTFort/MineNet" alt="GitHub forks"/></a>
-<a href="https://github.com/YTFort/MineNet/releases"><img src="https://badgen.net/github/assets-dl/YTFort/MineNet/tag/v1" alt="GitHub download"/></a>
+<a href="https://github.com/YTFort/MineNet/releases"><img src="https://badgen.net/github/assets-dl/YTFort/MineNet" alt="GitHub download"/></a>
 
 # `MineNet`
 ### Script that allows you to easily use the Minecraft API

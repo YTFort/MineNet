@@ -1,8 +1,8 @@
 ![Header](/IMG/1.png)
-<a href="https://github.com/YTFort/24-Aternos/stargazers"><img src="https://badgen.net/github/stars/YTFort/24-Aternos" alt="GitHub stars"/></a>
-<a href="https://github.com/YTFort/24-Aternos"><img src="https://badgen.net/github/watchers/YTFort/24-Aternos" alt="GitHub watchers"/></a>
-<a href="https://github.com/YTFort/24-Aternos"><img src="https://badgen.net/github/forks/YTFort/24-Aternos" alt="GitHub forks"/></a>
-<a href="https://github.com/YTFort/24-Aternos/releases"><img src="https://badgen.net/github/assets-dl/YTFort/24-Aternos" alt="GitHub download"/></a>
+<a href="https://github.com/YTFort/MineNet/stargazers"><img src="https://badgen.net/github/stars/YTFort/MineNet" alt="GitHub stars"/></a>
+<a href="https://github.com/YTFort/MineNet"><img src="https://badgen.net/github/watchers/YTFort/MineNet" alt="GitHub watchers"/></a>
+<a href="https://github.com/YTFort/MineNet"><img src="https://badgen.net/github/forks/YTFort/MineNet" alt="GitHub forks"/></a>
+<a href="https://github.com/YTFort/MineNet/releases"><img src="https://badgen.net/github/assets-dl/YTFort/MineNet" alt="GitHub download"/></a>
 
 # `MineNet`
 ### Script that allows you to easily use the Minecraft API
